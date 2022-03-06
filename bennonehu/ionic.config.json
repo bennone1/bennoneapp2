@@ -1,0 +1,7 @@
+{
+  "name": "Bennone App",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
